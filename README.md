@@ -8,5 +8,5 @@ This is used to practice using git with Github at work
 * soft reset
 * more branching
 * patching and applying
-* Command line redirects with >
+* Command line redirects with `>`
 
