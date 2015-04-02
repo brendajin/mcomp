@@ -1,5 +1,7 @@
 # Practice repository
 
+This is used to practice using git with Github at work
+
 ## Agenda 
 
 * pull requests
